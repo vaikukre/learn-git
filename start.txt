@@ -1,0 +1,1 @@
+uusing echo command to create file and add content on the go syntax echo 'write you content here' then use double arrows to create with file name like >> filename.txt 
